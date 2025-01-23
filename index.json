@@ -1,1 +1,515 @@
-
+{
+    "name": "lijsten",
+    "type": "directory",
+    "children": [
+        {
+            "name": "Libre_Service_Junior_Klas_1",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "U2",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "A10",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "U3",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "A1",
+                            "type": "file"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "index.json",
+            "type": "file"
+        },
+        {
+            "name": ".git",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "HEAD",
+                    "type": "file"
+                },
+                {
+                    "name": "shallow",
+                    "type": "file"
+                },
+                {
+                    "name": "FETCH_HEAD",
+                    "type": "file"
+                },
+                {
+                    "name": "config",
+                    "type": "file"
+                },
+                {
+                    "name": "info",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "exclude",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "refs",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "remotes",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "origin",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "main",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "heads",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "main",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tags",
+                            "type": "directory",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "description",
+                    "type": "file"
+                },
+                {
+                    "name": "objects",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "7d",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "8192edf743005384f4c55faceb9cb3c56252bf",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "2f",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "969365662e6b7745a42eda7acda615c95afa16",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "58",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "b4f02b7622cafab030f6a5a733f2a103c2786d",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "09",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "46733e7bd127c333354cfcdec233e4edfc3ddc",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1e",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "10a3f0f248d456137907715dcb8966e1c8ba25",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "01",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "4f7f0af76d6a0d0b5dca4fb6861ccd47a1c70d",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "bb",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "9358f5c8fa6dd44708a9501fdb650f9f9bc469",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "27",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "6ee31cf68e04f13e6a04e1c1818ac4fd341572",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "70",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "b54a756915b79e126290470b85e9059b8fea48",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "83",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "20ef7ad67316efd269e56890c2ac9aca17fc9f",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "e0",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "0c775aa07a45f1199bc92739abd7395317c6d7",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "f3",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "c2df9df64ebbbe58ac0fc96db8cbedd2650784",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "info",
+                            "type": "directory",
+                            "children": []
+                        },
+                        {
+                            "name": "02",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "610315d2290ba7d235481061782b58990a3b1f",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "pack",
+                            "type": "directory",
+                            "children": []
+                        },
+                        {
+                            "name": "49",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "17603f365aeee485c6bd48cd477d06eb0310d9",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "61",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "3cbcb39760ab638e4a620300722dfe59e8b606",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4a",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "89dfca6ba09313d2fcd9ffec8ef98aba7e4fbc",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "b5",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "1b8b6e6b89ccca2b92f3254622efe0fc30d338",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "41",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "e2beb46f1b132626bcc0987b7cdbd01df96a22",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4e",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "64cb3d16d577eb88d422ba634aff6d3b638b04",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ea",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "d23ca02c5df4062139e8739cf62383bbf8988f",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8b",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "137891791fe96927ad78e64b0aad7bded08bdc",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "a6",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "c2288b11a6b65d51d99b741c8886f22522c294",
+                                    "type": "file"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "index",
+                    "type": "file"
+                },
+                {
+                    "name": "hooks",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "pre-receive.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "post-update.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "prepare-commit-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "commit-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-applypatch.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "fsmonitor-watchman.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-commit.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "update.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "sendemail-validate.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-rebase.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-merge-commit.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "applypatch-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "push-to-checkout.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-push.sample",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "logs",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "HEAD",
+                            "type": "file"
+                        },
+                        {
+                            "name": "refs",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "remotes",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "origin",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "main",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "heads",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "main",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SPQR",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "tekst_4",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_6",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_8",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_3",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_1",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_2",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_5",
+                    "type": "file"
+                },
+                {
+                    "name": "lijst_8+6",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": ".github",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "workflows",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "directory-structure.yml",
+                            "type": "file"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "directory_to_json.py",
+            "type": "file"
+        },
+        {
+            "name": "README.md",
+            "type": "file"
+        }
+    ]
+}
