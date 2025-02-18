@@ -29,15 +29,15 @@
             ]
         },
         {
-            "name": "index.json",
-            "type": "file"
-        },
-        {
             "name": "SPQR",
             "type": "directory",
             "children": [
                 {
-                    "name": "tekst_4",
+                    "name": "lijst_8+6",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_1",
                     "type": "file"
                 },
                 {
@@ -45,15 +45,11 @@
                     "type": "file"
                 },
                 {
-                    "name": "tekst_8",
-                    "type": "file"
-                },
-                {
                     "name": "tekst_3",
                     "type": "file"
                 },
                 {
-                    "name": "tekst_1",
+                    "name": "tekst_8",
                     "type": "file"
                 },
                 {
@@ -65,13 +61,17 @@
                     "type": "file"
                 },
                 {
-                    "name": "lijst_8+6",
+                    "name": "tekst_4",
                     "type": "file"
                 }
             ]
         },
         {
             "name": "directory_to_json.py",
+            "type": "file"
+        },
+        {
+            "name": "index.json",
             "type": "file"
         },
         {
