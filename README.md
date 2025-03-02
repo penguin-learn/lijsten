@@ -1,1 +1,1 @@
-dit is een repo voor alle lijsten die worden getoont om de home pagina.
+# deze repo is onnodig sind er een nieuwen SG home pagina is 
