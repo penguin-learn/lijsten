@@ -3,19 +3,69 @@
     "type": "directory",
     "children": [
         {
-            "name": "Libre_Service_Junior_Klas_1",
+            "name": "dev",
             "type": "directory",
             "children": [
                 {
-                    "name": "U2",
-                    "type": "directory",
-                    "children": [
-                        {
-                            "name": "A10",
-                            "type": "file"
-                        }
-                    ]
+                    "name": "test_lijst1",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "README.md",
+            "type": "file"
+        },
+        {
+            "name": "SPQR",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "tekst_3",
+                    "type": "file"
                 },
+                {
+                    "name": "tekst_5",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_8",
+                    "type": "file"
+                },
+                {
+                    "name": "lijst_8+6",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_4",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_1",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_2",
+                    "type": "file"
+                },
+                {
+                    "name": "tekst_6",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "index.json",
+            "type": "file"
+        },
+        {
+            "name": "directory_to_json.py",
+            "type": "file"
+        },
+        {
+            "name": "Libre_Service_Junior_Klas_1",
+            "type": "directory",
+            "children": [
                 {
                     "name": "U3",
                     "type": "directory",
@@ -25,66 +75,16 @@
                             "type": "file"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "name": "SPQR",
-            "type": "directory",
-            "children": [
-                {
-                    "name": "lijst_8+6",
-                    "type": "file"
                 },
                 {
-                    "name": "tekst_1",
-                    "type": "file"
-                },
-                {
-                    "name": "tekst_6",
-                    "type": "file"
-                },
-                {
-                    "name": "tekst_3",
-                    "type": "file"
-                },
-                {
-                    "name": "tekst_8",
-                    "type": "file"
-                },
-                {
-                    "name": "tekst_2",
-                    "type": "file"
-                },
-                {
-                    "name": "tekst_5",
-                    "type": "file"
-                },
-                {
-                    "name": "tekst_4",
-                    "type": "file"
-                }
-            ]
-        },
-        {
-            "name": "directory_to_json.py",
-            "type": "file"
-        },
-        {
-            "name": "index.json",
-            "type": "file"
-        },
-        {
-            "name": "README.md",
-            "type": "file"
-        },
-        {
-            "name": "dev",
-            "type": "directory",
-            "children": [
-                {
-                    "name": "test_lijst1",
-                    "type": "file"
+                    "name": "U2",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "A10",
+                            "type": "file"
+                        }
+                    ]
                 }
             ]
         }
